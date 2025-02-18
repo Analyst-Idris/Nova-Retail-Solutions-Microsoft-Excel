@@ -145,6 +145,15 @@ o	The sales distribution across different product categories is relatively balan
 	**Electronics:** 144k sales
 
 
+## 5.	Monthly Sales Performance:
+
+o	Sales peaked in **April ($53k)** and **October ($47k)**, possibly due to seasonal demand or promotions.
+
+o	The lowest sales month was **August ($24k)**, indicating a potential slow period for the business.
+
+o	Other months fluctuated between $29k and $45k, showing moderate performance.
+
+
 
 
 
