@@ -9,6 +9,7 @@ Nova Retail Solutions is a dynamic retail company that offers quality products i
 
 ## Objectives of the Project:
 
+
 **1.	Analyze Customer Demographics:** To understand the distribution of transactions by age bracket and gender, enabling Nova Retail Solutions to effectively tailor marketing campaigns to specific customer groups.
 
 
@@ -57,7 +58,7 @@ To ensure accurate and insightful analysis, the dataset underwent a thorough cle
 
 **Extracting Date Attributes** – The Date column was transformed to extract meaningful time-based insights:
 
-1. Year – Transactions were categorized by year (e.g., 2023, 2024) to track annual sales trends.
+**1. Year** – Transactions were categorized by year (e.g., 2023, 2024) to track annual sales trends.
    
 **2. Month** – Sales were aggregated by month (e.g., January, February) to analyze monthly sales trends and identify peak and low-performing months.
    
