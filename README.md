@@ -44,3 +44,28 @@ Nova Retail Solutions is a dynamic retail company that offers quality products i
 **8. Price per Unit:** The cost of a single unit of the purchased product.
    
 **9. Total Amount:**  The total value of the transaction.
+
+
+## Methodology
+
+### Data preparation and Visualization:
+
+To ensure accurate and insightful analysis, the dataset underwent a thorough cleaning and manipulation process, improving its accuracy, consistency, and usability. The key steps taken include:
+
+**Handling Missing Data** – Empty cells were replaced with appropriate values to maintain data integrity. For numerical fields, missing values were imputed using reasonable estimates, and categorical fields were filled based on logical assumptions.
+
+**Structuring Age Groups** – Instead of analyzing individual ages, customers were grouped into age brackets (e.g., 18–29, 30–39, 40–49, 50–64). This helped in identifying the purchasing behavior of different demographic groups.
+
+**Extracting Date Attributes** – The Date column was transformed to extract meaningful time-based insights:
+
+1. Year – Transactions were categorized by year (e.g., 2023, 2024) to track annual sales trends.
+   
+**2. Month** – Sales were aggregated by month (e.g., January, February) to analyze monthly sales trends and identify peak and low-performing months.
+   
+**3. Quarter** – Data was grouped into Q1, Q2, Q3, and Q4 to observe quarterly performance.
+   
+**4. Weekday & WeekType** – Transactions were classified into weekdays and weekends, allowing the analysis of customer behavior based on different days of the week.
+
+**5. Categorizing Product Types** – Product categories were standardized into Beauty, Clothing, and Electronics, ensuring consistent classification across transactions.
+
+
