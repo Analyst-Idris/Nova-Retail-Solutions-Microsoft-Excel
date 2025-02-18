@@ -134,6 +134,17 @@ o	The average price per unit is **$179.8**.
 	**Females (61%)** make up a larger share of transactions compared to **males (39%)**, suggesting a stronger purchasing tendency among female customers.
 
 
+## 4.	Product Category Performance:
+
+o	The sales distribution across different product categories is relatively balanced:
+
+	**Beauty products:** 157k sales
+
+	**Clothing:** 156k sales
+
+	**Electronics:** 144k sales
+
+
 
 
 
