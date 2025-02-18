@@ -173,6 +173,13 @@ April and October see peak sales, while August is the slowest. Introducing back-
 **5. Improve Customer Engagement for Female Buyers:**
 With women accounting for 61% of purchases, It is recommended that Nova should enhance engagement through personalized loyalty programs, AI-driven product recommendations, and interactive shopping events like beauty workshops and styling sessions.
 
+![Image](https://github.com/user-attachments/assets/a0645e25-7114-4c59-be4c-a3d7b283cd3b)
+
+For any collaborative work or gigs, reach out to me at:
+
+📧 Email: oladejoidris55@gmail.com
+📞 Phone: 07025062857
+
 
 
 
