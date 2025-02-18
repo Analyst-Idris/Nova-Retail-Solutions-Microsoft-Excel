@@ -114,4 +114,26 @@ o	A total of **2,514** units were sold.
 o	The average price per unit is **$179.8**.
 
 
+## 2.	Transaction Trends:
+
+## o	Transactions by Week Type:
+	Weekday transactions (712) significantly outnumber weekend transactions (288), indicating that most sales occur during the weekdays.
+
+#### o	Transactions by Weekday:
+	Tuesday has the highest number of transactions (161), while Thursday has the lowest (123).
+
+## 3.	Demographic Analysis:
+
+### o	Transactions by Age Bracket:
+	The **50–64 age group** has the highest number of transactions (336), suggesting that older customers are more engaged in purchases.
+
+	The **18–29 age group** follows with 251 transactions, while the **30–39 group** has the lowest at 191.
+
+### o	Transaction by Gender:
+
+	**Females (61%)** make up a larger share of transactions compared to **males (39%)**, suggesting a stronger purchasing tendency among female customers.
+
+
+
+
 
