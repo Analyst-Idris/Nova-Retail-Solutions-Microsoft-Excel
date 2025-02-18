@@ -37,7 +37,7 @@ Nova Retail Solutions is a dynamic retail company that offers quality products i
 
 **5. Age:** The age of the customer at the time of the transaction.
  
-**6. Product Category: ** The type of product purchased, categorized as Beauty, Clothing, or Electronics.
+**6. Product Category:** The type of product purchased, categorized as Beauty, Clothing, or Electronics.
 
 **7. Quantity:** The number of units of the product bought in the transaction.
  
