@@ -103,7 +103,7 @@ To ensure accurate and insightful analysis, the dataset underwent a thorough cle
 
 # Insights from the Retail Sales Review Dashboard:
 
-##1.	Overall Performance Metrics
+## 1.	Overall Performance Metrics
    
 o	The total number of transactions recorded is **1,000**.
 
