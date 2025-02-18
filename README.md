@@ -23,3 +23,24 @@ Nova Retail Solutions is a dynamic retail company that offers quality products i
 
 	
 **5.	Key Metrics Tracking:** To provide an overview of essential business metrics, including total sales, units sold, and average price, for measuring overall business performance and guiding strategic decisions.
+
+
+## Data Exploration:
+
+**1. Transaction ID:** A unique identifier assigned to each sales transaction for tracking and reference.
+   
+**2. Date:** The specific date on which the transaction took place.
+   
+**3. Customer ID:** A unique identifier assigned to each customer to differentiate individual buyers.
+ 
+**4. Gender:**  The gender of the customer who made the purchase.
+
+**5. Age:** The age of the customer at the time of the transaction.
+ 
+**6. Product Category: ** The type of product purchased, categorized as Beauty, Clothing, or Electronics.
+
+**7. Quantity:** The number of units of the product bought in the transaction.
+ 
+**8. Price per Unit:** The cost of a single unit of the purchased product.
+   
+**9. Total Amount:**  The total value of the transaction.
