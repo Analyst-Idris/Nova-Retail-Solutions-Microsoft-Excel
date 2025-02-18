@@ -78,4 +78,25 @@ To ensure accurate and insightful analysis, the dataset underwent a thorough cle
 
 ![Image](https://github.com/user-attachments/assets/7397abde-d5f8-41ce-9d7d-09d8c6904206)
 
+## Pivot Table:
+
+![Image](https://github.com/user-attachments/assets/0646b273-4613-4a3c-b4af-9200a05521c0)
+
+## Key Performance Indicators:
+
+![Image](https://github.com/user-attachments/assets/f2a8f58a-00d0-40ef-bb96-ce4e8ac7f6d5)
+
+## Slicer:
+
+![Image](https://github.com/user-attachments/assets/30e79877-a904-40aa-991f-8330beea6c75)
+
+![Image](https://github.com/user-attachments/assets/e511ca4e-feb6-4e0c-a675-cdc16cdf4494)
+
+# Visualization:
+
+![Image](https://github.com/user-attachments/assets/ee32cb25-2f52-4513-bb39-34d12cfd2b9c)
+
+
+![Image](https://github.com/user-attachments/assets/2f8d670e-3552-4370-ad20-33198c12606d)
+
 
