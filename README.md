@@ -25,6 +25,8 @@ Nova Retail Solutions is a dynamic retail company that offers quality products i
 **5.	Key Metrics Tracking:** To provide an overview of essential business metrics, including total sales, units sold, and average price, for measuring overall business performance and guiding strategic decisions.
 
 
+
+
 ## Data Exploration:
 
 **1. Transaction ID:** A unique identifier assigned to each sales transaction for tracking and reference.
@@ -67,5 +69,13 @@ To ensure accurate and insightful analysis, the dataset underwent a thorough cle
 **4. Weekday & WeekType** – Transactions were classified into weekdays and weekends, allowing the analysis of customer behavior based on different days of the week.
 
 **5. Categorizing Product Types** – Product categories were standardized into Beauty, Clothing, and Electronics, ensuring consistent classification across transactions.
+
+ ## Preview of data before cleaning:
+
+![Image](https://github.com/user-attachments/assets/d13d639a-17c7-42a0-908e-174a3ee8f507)
+
+## Preview of data after cleaning  and manipulation in table form:
+
+![Image](https://github.com/user-attachments/assets/7397abde-d5f8-41ce-9d7d-09d8c6904206)
 
 
