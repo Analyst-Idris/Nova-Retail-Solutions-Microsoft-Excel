@@ -95,6 +95,23 @@ To ensure accurate and insightful analysis, the dataset underwent a thorough cle
 ![Image](https://github.com/user-attachments/assets/ee32cb25-2f52-4513-bb39-34d12cfd2b9c)
 
 
+
+
 ![Image](https://github.com/user-attachments/assets/2f8d670e-3552-4370-ad20-33198c12606d)
+
+
+
+# Insights from the Retail Sales Review Dashboard:
+
+##1.	Overall Performance Metrics
+   
+o	The total number of transactions recorded is **1,000**.
+
+o	The total sales revenue stands at **$456k**.
+
+o	A total of **2,514** units were sold.
+
+o	The average price per unit is **$179.8**.
+
 
 
