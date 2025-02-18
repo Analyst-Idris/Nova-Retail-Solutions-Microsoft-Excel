@@ -158,19 +158,19 @@ o	Other months fluctuated between $29k and $45k, showing moderate performance.
 
 Based on the findings from the Retail Sales Review Analysis, several strategic recommendations can be made to enhance Nova Retail Solutions' sales performance, optimize customer engagement, and drive higher profitability. The following recommendations address key trends observed in the analysis and provide actionable steps to improve overall business efficiency and revenue growth.
 
-**1. Enhance Weekday Promotions & Optimize Weekend Sales**
+**1. Enhance Weekday Promotions & Optimize Weekend Sales:**
 Weekdays see higher sales, with Tuesday being the busiest and Thursday the slowest. To maximize revenue, Nova should enhance weekday promotions and introduce exclusive weekend offers like discounts and loyalty rewards to drive weekend sales.
 
-Target Younger Customers with Personalized Marketing
+**2.Target Younger Customers with Personalized Marketing:**
 While customers aged 50–64 are the most active buyers, younger shoppers (18–29) present a growth opportunity. Nova should leverage social media, influencer partnerships, and exclusive online promotions to attract and retain younger customers.
 
-Expand High-Performing Product Categories
+**3. Expand High-Performing Product Categories:**
 Beauty and Clothing outperform Electronics in revenue. Nova should expand inventory, keep high-demand items in stock, and introduce bundled product offerings to encourage larger purchases.
 
-Develop Seasonal Campaigns to Boost Low Sales Months
+**4. Develop Seasonal Campaigns to Boost Low Sales Months:**
 April and October see peak sales, while August is the slowest. Introducing back-to-school promotions, mid-year sales, and exclusive discounts can help maintain steady revenue throughout the year.
 
-Improve Customer Engagement for Female Buyers
+**5. Improve Customer Engagement for Female Buyers:**
 With women accounting for 61% of purchases, Nova should enhance engagement through personalized loyalty programs, AI-driven product recommendations, and interactive shopping events like beauty workshops and styling sessions.
 
 
