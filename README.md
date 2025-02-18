@@ -9,7 +9,6 @@ Nova Retail Solutions is a dynamic retail company that offers quality products i
 
 ## Objectives of the Project:
 
-
 **1.	Analyze Customer Demographics:** To understand the distribution of transactions by age bracket and gender, enabling Nova Retail Solutions to effectively tailor marketing campaigns to specific customer groups.
 
 
