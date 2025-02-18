@@ -72,7 +72,7 @@ To ensure accurate and insightful analysis, the dataset underwent a thorough cle
 
  ## Preview of data before cleaning:
 
-![Image](https://github.com/user-attachments/assets/d13d639a-17c7-42a0-908e-174a3ee8f507)
+![Image](https://github.com/user-attachments/assets/819b708e-0fb7-4b17-ad69-0208b816cdfc)
 
 ## Preview of data after cleaning  and manipulation in table form:
 
