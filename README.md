@@ -165,13 +165,13 @@ Weekdays see higher sales, with Tuesday being the busiest and Thursday the slowe
 While customers aged 50–64 are the most active buyers, younger shoppers (18–29) present a growth opportunity. Nova should leverage social media, influencer partnerships, and exclusive online promotions to attract and retain younger customers.
 
 **3. Expand High-Performing Product Categories:**
-Beauty and Clothing outperform Electronics in revenue. Nova should expand inventory, keep high-demand items in stock, and introduce bundled product offerings to encourage larger purchases.
+Beauty and Clothing outperform Electronics in revenue. It is recommended that Nova should expand its inventory, keep high-demand items in stock, and introduce bundled product offerings to encourage larger purchases.
 
 **4. Develop Seasonal Campaigns to Boost Low Sales Months:**
-April and October see peak sales, while August is the slowest. Introducing back-to-school promotions, mid-year sales, and exclusive discounts can help maintain steady revenue throughout the year.
+April and October see peak sales, while August is the slowest. Introducing back-to-school or work promotions, mid-year sales, and exclusive discounts can help maintain steady revenue throughout the year.
 
 **5. Improve Customer Engagement for Female Buyers:**
-With women accounting for 61% of purchases, Nova should enhance engagement through personalized loyalty programs, AI-driven product recommendations, and interactive shopping events like beauty workshops and styling sessions.
+With women accounting for 61% of purchases, It is recommended that Nova should enhance engagement through personalized loyalty programs, AI-driven product recommendations, and interactive shopping events like beauty workshops and styling sessions.
 
 
 
