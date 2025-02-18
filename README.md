@@ -88,9 +88,7 @@ To ensure accurate and insightful analysis, the dataset underwent a thorough cle
 
 ## Slicer:
 
-![Image](https://github.com/user-attachments/assets/30e79877-a904-40aa-991f-8330beea6c75)
-
-![Image](https://github.com/user-attachments/assets/e511ca4e-feb6-4e0c-a675-cdc16cdf4494)
+![Image](https://github.com/user-attachments/assets/513fe750-2203-4476-a516-700ad65ba967)
 
 # Visualization:
 
