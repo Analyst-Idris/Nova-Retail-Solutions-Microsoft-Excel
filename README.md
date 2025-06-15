@@ -54,11 +54,11 @@ Nova Retail Solutions is a dynamic retail company that offers quality products i
 
 To ensure accurate and insightful analysis, the dataset underwent a thorough cleaning and manipulation process, improving its accuracy, consistency, and usability. The key steps taken include:
 
-**Handling Missing Data** – Empty cells were replaced with appropriate values to maintain data integrity. For numerical fields, missing values were imputed using reasonable estimates, and categorical fields were filled based on logical assumptions.
+* **Handling Missing Data** – Empty cells were replaced with appropriate values to maintain data integrity. For numerical fields, missing values were imputed using reasonable estimates, and categorical fields were filled based on logical assumptions.
 
-**Structuring Age Groups** – Instead of analyzing individual ages, customers were grouped into age brackets (e.g., 18–29, 30–39, 40–49, 50–64). This helped in identifying the purchasing behavior of different demographic groups.
+* **Structuring Age Groups** – Instead of analyzing individual ages, customers were grouped into age brackets (e.g., 18–29, 30–39, 40–49, 50–64). This helped in identifying the purchasing behavior of different demographic groups.
 
-**Extracting Date Attributes** – The Date column was transformed to extract meaningful time-based insights:
+* **Extracting Date Attributes** – The Date column was transformed to extract meaningful time-based insights:
 
 **1. Year** – Transactions were categorized by year (e.g., 2023, 2024) to track annual sales trends.
    
@@ -105,53 +105,55 @@ To ensure accurate and insightful analysis, the dataset underwent a thorough cle
 
 ## 1.	Overall Performance Metrics
    
-o	The total number of transactions recorded is **1,000**.
+*	The total number of transactions recorded is **1,000**.
 
-o	The total sales revenue stands at **$456k**.
+*	The total sales revenue stands at **$456k**.
 
-o	A total of **2,514** units were sold.
+*	A total of **2,514** units were sold.
 
-o	The average price per unit is **$179.8**.
+*	The average price per unit is **$179.8**.
 
 
 ## 2.	Transaction Trends:
 
-## o	Transactions by Week Type:
-	Weekday transactions (712) significantly outnumber weekend transactions (288), indicating that most sales occur during the weekdays.
+* 	**Transactions by Week Type:**
+  
+  Weekday transactions (712) significantly outnumber weekend transactions (288), indicating that most sales occur during the weekdays.
 
-#### o	Transactions by Weekday:
-	Tuesday has the highest number of transactions (161), while Thursday has the lowest (123).
+*	**Transactions by Weekday:**
+  
+  Tuesday has the highest number of transactions (161), while Thursday has the lowest (123).
 
 ## 3.	Demographic Analysis:
 
-### o	Transactions by Age Bracket:
-	The **50–64 age group** has the highest number of transactions (336), suggesting that older customers are more engaged in purchases.
+### 	Transactions by Age Bracket:
+*	The **50–64 age group** has the highest number of transactions (336), suggesting that older customers are more engaged in purchases.
 
-	The **18–29 age group** follows with 251 transactions, while the **30–39 group** has the lowest at 191.
+*	The **18–29 age group** follows with 251 transactions, while the **30–39 group** has the lowest at 191.
 
-### o	Transaction by Gender:
+### 	Transaction by Gender:
 
-	**Females (61%)** make up a larger share of transactions compared to **males (39%)**, suggesting a stronger purchasing tendency among female customers.
+*	**Females (61%)** make up a larger share of transactions compared to **males (39%)**, suggesting a stronger purchasing tendency among female customers.
 
 
 ## 4.	Product Category Performance:
 
-o	The sales distribution across different product categories is relatively balanced:
+*	The sales distribution across different product categories is relatively balanced:
 
-	**Beauty products:** 157k sales
+*	**Beauty products:** 157k sales
 
-	**Clothing:** 156k sales
+*	**Clothing:** 156k sales
 
-	**Electronics:** 144k sales
+*	**Electronics:** 144k sales
 
 
 ## 5.	Monthly Sales Performance:
 
-o	Sales peaked in **April ($53k)** and **October ($47k)**, possibly due to seasonal demand or promotions.
+*	Sales peaked in **April ($53k)** and **October ($47k)**, possibly due to seasonal demand or promotions.
 
-o	The lowest sales month was **August ($24k)**, indicating a potential slow period for the business.
+*	The lowest sales month was **August ($24k)**, indicating a potential slow period for the business.
 
-o	Other months fluctuated between $29k and $45k, showing moderate performance.
+*	Other months fluctuated between $29k and $45k, showing moderate performance.
 
 
 # Recommendations:
